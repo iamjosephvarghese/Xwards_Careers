@@ -92,3 +92,4 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 ## Credits
 
 1. [Humaans Project](https://www.humaaans.com/) by Pablo Stanley for SVG Illustrations.
+2. [Gatsby Careers Page Starter](https://github.com/BoyWithSilverWings/gatsby-careers-page) by [BoyWithSilverWings](https://github.com/BoyWithSilverWings)
